@@ -27,3 +27,5 @@ Today, I have found my niche with anything Typescript. I am currently working on
 * [BuyBetter](https://github.com/seanlnge/buybetter) - Receipt analyzer to find better purchase alternatives built in 36 hours for the Shellhacks hackathon
 #### 2025
 * [Multyx](https://github.com/seanlnge/multyx) - Multiplayer game creation framework built for beginner developers
+* [Fitted](https://devpost.com/software/fitted-miwbzc) - Webapp for generating outfits built in 24 hours for the HackUSF hackathon
+* [Scan-Craft](https://devpost.com/software/asdf-56o8ej) - Visualize crafting survival items from your inventory built in 24 hours for the Hackabull hackathon
