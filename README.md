@@ -1,3 +1,5 @@
+![stats1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanlnge&theme=tokyonight)
+
 # Hello
 
 I'm Sean, a sophomore at the University of South Florida, and have been programming for ~6 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
