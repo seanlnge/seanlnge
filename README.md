@@ -1,12 +1,12 @@
 # Hello,
 
-I'm Sean, a sophomore at the University of South Florida, and have been programming for ~6 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
+I'm Sean, a sophomore at the University of South Florida, and have been programming for ~7 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
 
 After a year or two of finding my place within Javascript, I wanted to branch out into server-side development, seeing if I was determined enough to learn how to create multiplayer games using websockets and fullstack web apps with Node and Express.
 
 With the coronavirus pandemic in full force and school off, I broadened my view of the software development ecosystem, trying out all types of languages and software development tools such as Rust, C#, Kotlin, and even building some of my own
 
-Today, I have found my niche with anything Typescript. I am currently working on **Multyx**, a multiplayer browser game hoster and framework [(try it out)](https://www.npmjs.com/package/multyx). I love to meet other software dev people, so feel free to reach out!
+Today, I have found my niche with anything Typescript. I am currently working on **Multyx**, a drag-and-drop multiplayer browser game builder [(try it out)](https://multyx.io). I love to meet other software dev people, so feel free to reach out!
 
 ***
 
@@ -20,6 +20,7 @@ List of my most noteworthy projects throughout my time programming.
 
 | Finished | Name | Description |
 | :---: | ---: | :--- |
+| **Jan 2026** | [Multyx.io](https://multyx.io) | Block-code multiplayer game builder and hoster |
 | **Apr 2025** | [Fitted](https://devpost.com/software/fitted-miwbzc) | Webapp for generating outfits built in 24 hours for the HackUSF hackathon |
 | **Apr 2025** | [Scan-Craft](https://devpost.com/software/asdf-56o8ej) | Visualize crafting survival items from your inventory built in 24 hours for the Hackabull hackathon |
 | **Jan 2025** | [Multyx](https://github.com/seanlnge/multyx) | Multiplayer game creation framework built for beginner developers |
