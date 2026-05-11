@@ -20,6 +20,9 @@ List of my most noteworthy projects throughout my time programming.
 
 | Finished | Name | Description |
 | :---: | ---: | :--- |
+| **May 2026** | [larppack](https://github.com/seanlnge/larppack) | Product idea to TikTok slideshow generation tool |
+| **May 2026** | [gd-simulate](https://github.com/seanlnge/gd-simulate) | One-to-one Geometry Dash level simulation built in Rust |
+| **Apr 2026** | [Aegis](https://github.com/ackberry/aegis) | Space radiation prediction module that won a hackathon |
 | **Jan 2026** | [Multyx.io](https://multyx.io) | Block-code multiplayer game builder and hoster |
 | **Apr 2025** | [Fitted](https://devpost.com/software/fitted-miwbzc) | Webapp for generating outfits built in 24 hours for the HackUSF hackathon |
 | **Apr 2025** | [Scan-Craft](https://devpost.com/software/asdf-56o8ej) | Visualize crafting survival items from your inventory built in 24 hours for the Hackabull hackathon |
