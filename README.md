@@ -1,6 +1,6 @@
 # Hello,
 
-I'm Sean, a sophomore at the University of South Florida, and have been programming for ~7 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
+I'm Sean, a junior at the University of South Florida, and have been programming for ~8 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
 
 After a year or two of finding my place within Javascript, I wanted to branch out into server-side development, seeing if I was determined enough to learn how to create multiplayer games using websockets and fullstack web apps with Node and Express.
 
