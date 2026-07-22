@@ -25,10 +25,10 @@ List of my most noteworthy projects throughout my time programming.
 | **May 2026** | [GD-Simulate](https://github.com/seanlnge/gd-simulate) | One-to-one Geometry Dash level simulation built in Rust |
 | **Apr 2026** | [Aegis](https://github.com/ackberry/aegis) | Space radiation prediction module that won a hackathon |
 | **Jan 2026** | [Multyx.io](https://multyx.io) | Block-code multiplayer game builder and hoster |
-| **Apr 2025** | [Fitted](https://devpost.com/software/fitted-miwbzc) | Webapp for generating outfits built for HackUSF hackathon |
-| **Apr 2025** | [Scan-Craft](https://devpost.com/software/asdf-56o8ej) | Visualize crafting survival items from your inventory built for Hackabull hackathon |
+| **Apr 2025** | [Fitted](https://devpost.com/software/fitted-miwbzc) | Webapp for generating outfits that won the HackUSF hackathon |
+| **Apr 2025** | [Scan-Craft](https://devpost.com/software/asdf-56o8ej) | Visualize crafting survival items from your inventory that won the Hackabull hackathon |
 | **Jan 2025** | [Multyx](https://github.com/seanlnge/multyx) | Multiplayer game creation framework built for beginner developers |
-| **Sep 2024** | [BuyBetter](https://github.com/seanlnge/buybetter) | Receipt analyzer to find better purchase alternatives built for Shellhacks hackathon |
+| **Sep 2024** | [BuyBetter](https://github.com/seanlnge/buybetter) | Receipt analyzer to find better purchase alternatives that lost the Shellhacks hackathon |
 | **Aug 2024** | [SiteGEN](https://github.com/seanlnge/sitegen) | Single page website creator using social media handles |
 | **Jun 2023** | [Threespective](https://replit.com/@seanlnge/Threespective) | 3-D space simulator interacted with through a 2-D cross section |
 | **Jul 2022** | [Spicefall](https://spicefall.replit.app/) | Pepper themed physics-based puzzle game built in a week for the KaJAM hackathon |
