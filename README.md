@@ -20,6 +20,7 @@ List of my most noteworthy projects throughout my time programming.
 
 | Completed | Name | Description |
 | :---: | ---: | :--- |
+| **Oct 2026** | [VersicLM](https://versiclm.com) | Agentic harness for Unreal Engine for Fortnite |
 | **May 2026** | [Kalorie](https://github.com/seanlnge/kalorie) | Kalshi earnings mention market predictor w/ better brier score and log loss |
 | **May 2026** | [Larppack](https://github.com/seanlnge/larppack) | Product idea to TikTok slideshow generation tool |
 | **May 2026** | [GD-Simulate](https://github.com/seanlnge/gd-simulate) | One-to-one Geometry Dash level simulation built in Rust |
