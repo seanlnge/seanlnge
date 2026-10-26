@@ -20,6 +20,8 @@ List of my most noteworthy projects throughout my time programming.
 
 | Completed | Name | Description |
 | :---: | ---: | :--- |
+| **Oct 2026** | [tyxtest](https://github.com/seanlnge/tyxtest) | Product-level decision-model powered JS/TS testing suite |
+| **Oct 2026** | [Fin](https://github.com/seanlnge/fin) | Personal finance skill allowing agents to securely see bank data with Plaid |
 | **Oct 2026** | [VersicLM](https://versiclm.com) | Agentic harness for Unreal Engine for Fortnite |
 | **May 2026** | [Kalorie](https://github.com/seanlnge/kalorie) | Kalshi earnings mention market predictor w/ better brier score and log loss |
 | **May 2026** | [Larppack](https://github.com/seanlnge/larppack) | Product idea to TikTok slideshow generation tool |
