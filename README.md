@@ -2,11 +2,11 @@
 
 I'm Sean, a junior at the University of South Florida, and have been programming for ~8 years. I started off by making simple Python scripts such as a Pi calculator and CLI games, but found my love for coding by making browser games with the HTML canvas.
 
-After a year or two of finding my place within Javascript, I wanted to branch out into server-side development, seeing if I was determined enough to learn how to create multiplayer games using websockets and fullstack web apps with Node and Express.
+After a year or two of finding my place within JavaScript, I wanted to branch out into server-side development, seeing if I was determined enough to learn how to create multiplayer games using websockets and fullstack web apps with Node and Express.
 
 With the coronavirus pandemic in full force and school off, I broadened my view of the software development ecosystem, trying out all types of languages and software development tools such as Rust, C#, Kotlin, and even building some of my own
 
-Today, I have found my niche with anything Typescript. I am currently working on **Multyx**, a drag-and-drop multiplayer browser game builder [(try it out)](https://multyx.io). I love to meet other software dev people, so feel free to reach out!
+Today, I have found my niche with anything Typescript. I am currently working on **VersicLM**, an agentic harness for UEFN [(try it out)](https://versiclm.com). I love to meet other software dev people, so feel free to reach out!
 
 ***
 
@@ -20,7 +20,7 @@ List of my most noteworthy projects throughout my time programming.
 
 | Completed | Name | Description |
 | :---: | ---: | :--- |
-| **Oct 2026** | [tyxtest](https://github.com/seanlnge/tyxtest) | Product-level decision-model powered JS/TS testing suite |
+| **Nov 2026** | [tyxtest](https://github.com/seanlnge/tyxtest) | Product-level decision-model powered JS/TS testing suite |
 | **Oct 2026** | [Fin](https://github.com/seanlnge/fin) | Personal finance skill allowing agents to securely see bank data with Plaid |
 | **Oct 2026** | [VersicLM](https://versiclm.com) | Agentic harness for Unreal Engine for Fortnite |
 | **May 2026** | [Kalorie](https://github.com/seanlnge/kalorie) | Kalshi earnings mention market predictor w/ better brier score and log loss |
